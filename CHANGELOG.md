@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/sakurawaifu/react-template-mini/compare/1.1.0...1.2.0) (2023-07-31)
+
+
+### Features
+
+* 更改 css modules 配置 ([5674f92](https://github.com/sakurawaifu/react-template-mini/commit/5674f92ef992ce43e38028ef6710ae4cf4661a14))
+
+
+
 # [1.1.0](https://github.com/sakurawaifu/react-template-mini/compare/1.0.0...1.1.0) (2023-07-27)
 
 
