@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/sakurawaifu/react-template-mini/compare/1.2.0...1.2.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* 修改 .gitignore ([b26533d](https://github.com/sakurawaifu/react-template-mini/commit/b26533dfcc8d442dade209efa2ae64af13f0b2b5))
+
+
+
 # [1.2.0](https://github.com/sakurawaifu/react-template-mini/compare/1.1.0...1.2.0) (2023-07-31)
 
 
