@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/sakurawaifu/react-template-mini/compare/1.2.1...1.3.0) (2023-08-04)
+
+
+### Features
+
+* 增加 @ 路径别名 ([7e84b12](https://github.com/sakurawaifu/react-template-mini/commit/7e84b12e0670c21fe745c7e00b361bd700da9a58))
+
+
+
 ## [1.2.1](https://github.com/sakurawaifu/react-template-mini/compare/1.2.0...1.2.1) (2023-08-02)
 
 
