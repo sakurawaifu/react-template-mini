@@ -13,6 +13,7 @@
 5. 增加 autoprefixer
 6. 修改 index.html、main.tsx、App.tsx
 7. 增加 changelog 生成功能
+8. 增加 @ 路径别名
 
 ## workflow
 1. change
