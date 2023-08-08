@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/sakurawaifu/react-template-mini/compare/1.3.1...1.4.0) (2023-08-08)
+
+
+### Features
+
+* 修改 eslint 规则 ([4803077](https://github.com/sakurawaifu/react-template-mini/commit/4803077e4972b975dd7ff5f4cc6bee48487388f6))
+
+
+
 ## [1.3.1](https://github.com/sakurawaifu/react-template-mini/compare/1.3.0...1.3.1) (2023-08-07)
 
 
