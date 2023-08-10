@@ -24,6 +24,7 @@ module.exports = {
     'react-refresh/only-export-components': 'warn',
     'react-hooks/exhaustive-deps': 'off',
     // eslint
+    'indent': ['error', 2],
     'space-infix-ops': ['error', {
       'int32Hint': false
     }],
